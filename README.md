@@ -221,3 +221,12 @@ Star the repo if you find it useful!
 **Made for ML engineers, researchers, and organizations building transparent distributed training solutions.**  
 
 Let's make Distributed Training Optimization more open, data-driven, and memory-efficient.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Distributed-Training-Optimization&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Distributed-Training-Optimization_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Distributed-Training-Optimization_growth.svg">
+  </picture>
+</a>
