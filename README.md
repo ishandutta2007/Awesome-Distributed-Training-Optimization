@@ -29,6 +29,7 @@ A curated directory of **leading SaaS platforms** and **open-source frameworks**
 - [🛠️ Open-Source Distributed Training Projects](#️-open-source-distributed-training-projects)
 - [🧠 Parallelism & Memory Architecture Reference](#-parallelism--memory-architecture-reference)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
 - [⚖️ Disclaimer](#️-disclaimer)
 - [⭐ Star History](#-star-history)
 
@@ -118,6 +119,26 @@ Contributions are warmly welcomed! Please help expand and refine this ecosystem:
 3. Add or update entries adhering to existing tables and badge formats (include company valuation, starting pricing, free tier limits, or GitHub stargazer badges).
 4. Commit your changes (`git commit -m 'feat: add new distributed training framework'`).
 5. Open a **Pull Request** detailing your additions.
+
+---
+
+## 💖 Support
+
+Thank you for exploring and utilizing **Awesome-Distributed-Training-Optimization**! If you find this curated directory valuable for your distributed systems research, ML engineering workflows, or infrastructure planning, here are a few ways you can support the initiative:
+
+- ⭐ **Star this repository** on GitHub to help amplify its reach across the AI community.
+- 🍴 **Fork and contribute** new open-source frameworks, benchmark insights, or SaaS platform updates.
+- 📢 **Share** this guide with colleagues, ML teams, and on tech communities (X/Twitter, LinkedIn, Discord).
+- ☕ **Buy me a coffee / Sponsor**: Support ongoing maintenance, research, and curation via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007):
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</p>
 
 ---
 
